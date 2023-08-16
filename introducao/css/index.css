@@ -1,0 +1,75 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+.nome {
+    background-color: #4083ad;
+    text-align: center;
+    font-size: 50px;
+    color: black;
+    margin-bottom: 0;
+}
+
+.centro {
+    text-align: center;
+    font-size: 25px;
+}
+
+.subtitulo {
+    margin-top: 0;
+    background-color: #5391b7;
+
+}
+
+.objetivo, .experiencia, .formacao, .curso {
+    background-color: #bbbbbb;
+    padding: 10px;
+    border-bottom: 5px solid #4083ad;
+    font-size: 35px;
+}
+
+ul {
+    padding-left: 0px;
+    list-style-position: inside;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a {
+    color: blue;
+}
+
+.menu {
+    text-align: right;
+    
+}
+
+.menu li {
+    list-style: none;
+    display: inline-block;
+    border-bottom: 5px solid #4083ad;
+}
+
+.menu a {
+    background-color: #bbbbbb;
+    padding: 15px;
+    display: block;
+}
+
+.menu a:hover {
+    background-color: #4083ad;
+    text-decoration: none;
+}
+
+p {
+    font-size: 20px;
+}
